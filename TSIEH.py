@@ -40,7 +40,7 @@ for t in range(nt):
     PG = np.floor(P)
     w = 1.0 + PG - P
     G = np.int32(np.mod(np.concatenate([PG,PG+2.5]),ng))
-    WW = np.concatenate([w,w+2.5])
+    WW = np.concatenate([w,2.5-w])
 
     rho = np.zeros(ng)
     for G1,W1 in zip(G,WW):
