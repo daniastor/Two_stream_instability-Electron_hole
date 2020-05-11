@@ -82,8 +82,7 @@ for t in range(nt):
     
     m=[i for i,x1 in enumerate(x) if (x1>=4.5) and (x1<=5.5)]
     a0=v[m]        
-    plt.hist(a0,100,orientation="horizontal", histtype='barstacked',
-             normed=True,visible=False)
+    plt.hist(a0,100,orientation="horizontal", histtype='barstacked',normed=True,visible=False)
     plt.subplot(2, 2, 4)
     valores0 = sns.kdeplot(a0,vertical=True,color="k",visible=True)
     c0,b0 = valores0.get_lines()[0].get_data()
