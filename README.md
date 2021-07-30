@@ -4,6 +4,13 @@ This code can simulate electron phase space coherent structures known as ”elec
 
 This instabilityis  generated  during  the  evolution  of  two  counter  streaming  electrons  moving  in  one  dimensionin  the  presence  of  a  background  of  neutralizing  static  positive  charges.  
 
+<p align="center">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_1.png" width="600" height="">
+</p>
+<p align="center">
+*Two-stream instability simulation, initial states*
+</p>
+
 We  show  the  temporalevolution of the electrons phase space, the associated electrostatic potential and electrostatic fieldand the evolution of the velocity distribution function.  We find numerically the energy contoursand velocity distribution function corresponding to different sections of the electrons phase space "hole".  We explain the numerical code implementation and the physical phenomena in "**Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme**".
 
 We expect this work to be a useful tool for students interested in plasma physics research.
