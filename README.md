@@ -38,7 +38,7 @@ We find numerically the energy contoursand velocity distribution function corres
 <img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_250.png" width="600" height="">
 </p>
 <p align="center">
-Two-stream instability simulation - Electron Hole.
+Two-stream instability simulation - Electron Hole (Iteration 250, the latest in simulation).
 </p>
 
 <p align="center">
