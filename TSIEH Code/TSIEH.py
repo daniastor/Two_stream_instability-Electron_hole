@@ -2,7 +2,7 @@
 Two Stream Instability - Electron Holes
 Code TSIEH
 
-Author:
+Authors:
     Daniela F. López Astorquiza
     Jaime Humberto Hoyos Barrios
 """
