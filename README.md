@@ -42,14 +42,14 @@ Two-stream instability simulation - Electron Hole (Iteration 250, the latest in 
 </p>
 
 <p align="center">
-<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/Energy_contours.png" width="600" height="">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/Energy_contours.png" width="400" height="">
 </p>
 <p align="center">
 Contours of constant energy.
 </p>
 
 <p align="center">
-<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/All_Distribution_Function.png" width="600" height="">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/All_Distribution_Function.png" width="400" height="">
 </p>
 <p align="center">
 Velocity distribution function.
