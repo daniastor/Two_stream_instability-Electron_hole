@@ -42,7 +42,7 @@ Two-stream instability simulation, evolution of initial states in the iteration 
 We find numerically the energy contoursand velocity distribution function corresponding to different sections of the electrons phase space "hole". We explain the numerical code implementation and the physical phenomena in the manuscript: "**Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme**".
 
 <p align="center">
-<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_Hole.png" width="600" height="">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_Hole.png" width="400" height="">
 </p>
 <p align="center">
 Electron hole in phase space (Iteration 250, the latest in simulation).
