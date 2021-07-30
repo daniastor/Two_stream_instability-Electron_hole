@@ -1,4 +1,4 @@
-# Two-stream instability and electron hole analysis 1D
+# Two-stream instability and electron hole analysis (One dimension)
 
 This code can simulate electron phase space coherent structures known as ”electron holes” which are formed at the non-linear evolution stage of a two-stream instability plasma simulation. This instabilityis  generated  during  the  evolution  of  two  counter  streaming  electrons  moving  in  one  dimension in  the  presence  of  a  background  of  neutralizing  static  positive  charges.  
 
