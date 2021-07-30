@@ -32,13 +32,34 @@ Two-stream instability simulation, evolution of initial states in the iteration 
 Two-stream instability simulation, evolution of initial states in the iteration 122.
 </p>
 
-We find numerically the energy contoursand velocity distribution function corresponding to different sections of the electrons phase space "hole".  We explain the numerical code implementation and the physical phenomena in "**Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme**".
+We find numerically the energy contoursand velocity distribution function corresponding to different sections of the electrons phase space "hole". We explain the numerical code implementation and the physical phenomena in the manuscript: "**Tutorial for the solution of a plasma electrostatic one dimensionalmodel using a PIC scheme**".
 
 <p align="center">
 <img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_250.png" width="600" height="">
 </p>
 <p align="center">
-Two-stream instability simulation, evolution of initial states in the iteration 122.
+Two-stream instability simulation, evolution of initial states in the iteration 250, the latest in simulation.
+</p>
+
+<p align="center">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/TSIEH_250.png" width="600" height="">
+</p>
+<p align="center">
+Two-stream instability simulation - Electron Hole.
+</p>
+
+<p align="center">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/Energy_contours.png" width="600" height="">
+</p>
+<p align="center">
+Contours of constant energy.
+</p>
+
+<p align="center">
+<img src="https://github.com/daniastor/Two-stream-instability/blob/master/Pictures/All_Distribution_Function.png" width="600" height="">
+</p>
+<p align="center">
+Velocity distribution function.
 </p>
 
 We expect this work to be a useful tool for students interested in plasma physics research.
